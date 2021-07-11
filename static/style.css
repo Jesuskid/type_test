@@ -1,0 +1,73 @@
+body{
+    padding-top: 5%;
+
+}
+
+.area{
+    background: url("green.jpg") no-repeat;
+    background-size: cover;
+}
+
+.operations-area-div{
+    /*background: green;*/
+    margin: auto;
+    text-align: center;
+    padding: 0;
+}
+
+.operations-area-div h1{
+    color: midnightblue;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+
+.text-area{
+    background:whitesmoke;
+    width: 50%;
+    height: 300px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black !important;
+}
+
+.input{
+    width: 50%;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: none;
+    border: none;
+    font-size: 24px;
+}
+
+.operations-area-div button{
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    background: midnightblue;
+    color: whitesmoke;
+    width: 80px;
+    margin-top: 5px;
+}
+
+.operations-area-div button:active{
+    background: whitesmoke;
+    color: midnightblue;
+}
+
+footer div{
+    margin-top: 80px;
+}
+
+footer div span{
+    font-family: "Dancing Script";
+}
+
+footer div a{
+    font-family: "Dancing Script", cursive;
+    color: midnightblue;
+    text-underline: none;
+    font-size: 18px;
+    font-weight: bolder;
+}
